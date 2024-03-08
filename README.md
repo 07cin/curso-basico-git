@@ -3,6 +3,8 @@
 ### Esto es un título H3
 ### Esto es otro titulo h3
 
+Este es otro cambio parcial
+
 Esto es un texto descriptivo **Bold** **texto personalizado**
 > Esto es un bloque de texto o comentario
 - Item1
