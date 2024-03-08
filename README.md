@@ -1,6 +1,8 @@
 # Esto es un título H1
 ## Esto es un  título H2
 ### Esto es un título H3
+### Esto es otro titulo h3
+
 Esto es un texto descriptivo **Bold** **texto personalizado**
 > Esto es un bloque de texto o comentario
 - Item1
