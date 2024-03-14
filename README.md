@@ -2,7 +2,7 @@
 ## Esto es un  título H2
 ### Esto es un título H3
 ### Esto es otro titulo h3
-
+clase de git
 Este es otro cambio parcial
 
 Esto es un texto descriptivo **Bold** **texto personalizado**
