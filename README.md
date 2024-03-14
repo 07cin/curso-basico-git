@@ -7,6 +7,8 @@ Este es otro cambio parcial
 
 ESTO ES UNA PRUEBA SIGUIENDO LAS NOTAS DE DAVE
 
+# me voy al local
+
 #ESTO ES UN CAMBIO CON LAS NOTAS DE DAVE
 
 Esto es un texto descriptivo **Bold** **texto personalizado**
